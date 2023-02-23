@@ -1,5 +1,0 @@
-console.lof("hello Azhar");
-console.lof("hello Azhar");
-console.lof("hello Azhar");
-console.lof("hello Azhar");
-console.lof("hello Azhar");

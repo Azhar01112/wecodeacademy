@@ -1,2 +1,0 @@
-# wecodeacademy
-Training Repository
